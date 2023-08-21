@@ -1,0 +1,31 @@
+! B
+! Bilibili
+bilibili.com##.adblock-tips
+||mcdn.bilivideo.cn^
+
+! D
+! Douyu
+||edgesrv.com^
+||apm.douyucdn.cn^
+||apmconfig.douyucdn.cn^
+||dotab.douyucdn.cn^
+||uact.douyucdn.cn^
+||douyucdn.cn/japi/adx
+
+! H
+! Huya
+||ext.huya.com^
+||p2p.huya.com^
+||web.huya.com^
+||ylog.huya.com^
+||xy.cdn.huya.com^
+||hyext.msstatic.com^
+||xycdn.com^
+cache*.php$domain=huya.com
+XYLive.js
+hyExt-web.js
+p2plib.js$domain=huya.com
+
+! P
+! PPIO
+||ppio.cloud^
