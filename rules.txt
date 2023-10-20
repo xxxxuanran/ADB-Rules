@@ -1,7 +1,25 @@
+! 0-9
+||3533.com^
+
+! A
+! Aliyun-HTTPDNS
+||203.107.1.*
+
 ! B
 ! Bilibili
 bilibili.com##.adblock-tips
+live.bilibili.com##.function_card_container
+live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||mcdn.bilivideo.cn^
+||data.bilivideo.com^
+||data.bilibili.com^
+||live-trace.bilibili.com^
+||upos-sz-mirror08c.bilivideo.com^
+||upos-sz-mirror08h.bilivideo.com^
+||s1.hdslb.com/bfs/seed/jinkela/short/b-mirror
+||*.bilivideo.com*bluray.flv?$domain=live.bilibili.com
+||*.bilivideo.com*hevc.flv?$domain=live.bilibili.com
+
 
 ! D
 ! Douyu
@@ -10,6 +28,7 @@ bilibili.com##.adblock-tips
 ||apmconfig.douyucdn.cn^
 ||dotab.douyucdn.cn^
 ||uact.douyucdn.cn^
+||*:18080/live
 ||douyucdn.cn/japi/adx
 
 ! H
@@ -20,12 +39,25 @@ bilibili.com##.adblock-tips
 ||ylog.huya.com^
 ||xy.cdn.huya.com^
 ||hyext.msstatic.com^
-||xycdn.com^
 cache*.php$domain=huya.com
 XYLive.js
 hyExt-web.js
 p2plib.js$domain=huya.com
+*.zip$domain=huya.com
+
+! I
+! ipchaxun
+ipchaxun.com##.mod-news
 
 ! P
 ! PPIO
 ||ppio.cloud^
+
+! T
+! Tencent-HTTPDNS
+||182.254.116.116
+||182.254.118.118
+
+! X
+! XYCloud
+||xycdn.com^
