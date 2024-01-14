@@ -16,6 +16,8 @@
 ! B
 ! Bilibili
 bilibili.com##.adblock-tips
+t.bilibili.com##.bili-dyn-ads__item
+t.bilibili.com##.bili-dyn-ads
 live.bilibili.com##.function_card_container
 live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||mcdn.bilivideo.cn^
@@ -25,12 +27,16 @@ live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||upos-sz-mirror08c.bilivideo.com^
 ||upos-sz-mirror08h.bilivideo.com^
 ||s1.hdslb.com/bfs/seed/jinkela/short/b-mirror
+@@||s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js$domain=live.bilibili.com
 ||*.bilivideo.com*bluray.flv?$domain=live.bilibili.com
 ||*.bilivideo.com*hevc.flv?$domain=live.bilibili.com
 
 
 ! D
 ! Douyu
+douyu.com##.AdCover
+douyu.com##.Baby
+douyu.com##.IconCardAdCard, .IconCardAdCardBig
 ||edgesrv.com^
 ||apm.douyucdn.cn^
 ||apmconfig.douyucdn.cn^
@@ -38,6 +44,8 @@ live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||uact.douyucdn.cn^
 ||*:18080/live
 ||douyucdn.cn/japi/adx
+||dyp2p-*.douyucdn2.cn^$domain=douyu.com
+
 
 ! H
 ! Huya
@@ -56,6 +64,7 @@ p2plib.js$domain=huya.com
 ! I
 ! ipchaxun
 ipchaxun.com##.mod-news
+ipchaxun.com##.MODBanana
 
 ! P
 ! PPIO
@@ -65,6 +74,9 @@ ipchaxun.com##.mod-news
 ! Tencent-HTTPDNS
 ||182.254.116.116
 ||182.254.118.118
+
+! TechPowerup
+techpowerup.com##div.v-port:first-child > div:first-child
 
 ! X
 ! XYCloud
