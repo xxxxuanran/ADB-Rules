@@ -55,15 +55,31 @@ douyu.com##.ClientJump
 
 ! H
 ! Huya
+||csp.huya.com^
 ||ext.huya.com^
 ||p2p.huya.com^
 ||web.huya.com^
+||fems.huya.com^
 ||ylog.huya.com^
 ||xy.cdn.huya.com^
 ||hyext.msstatic.com^
+||liveapi.huya.com/cache/room/roomMonitor/$domain=huya.com
+||a.msstatic.com/huya/main3/assets/modules/hyext-lib-loader/
+||a.msstatic.com/huya/main3/assets/modules/roomHyExtComp/
+||a.msstatic.com/huya/main3/assets/modules/loadZipFile/
+||a.msstatic.com/huya/main3/node_modules/@huyafed/ad-report/
+||a.msstatic.com/huya/main3/widget/roomReportMsg/
+||a.msstatic.com/huya/main3/assets/modules/livePerfReport/
+||a.msstatic.com/huya/main3/assets/modules/livePlayerEnvReport/
+||a.msstatic.com/huya/main3/assets/modules/h5playeOnloadReport/
+||a.msstatic.com/huya/main3/assets/modules/liveRoomDurationReport/
+||a.msstatic.com/huya/main3/assets/modules/liveRoomPvReport/
+||a.msstatic.com/huya/main3/assets/modules/roomReport/
+||a.msstatic.com/huya/main3/assets/modules/ya-report/
+||a.msstatic.com/huya/hd/cdn_libs/performance_report-min.js
 cache*.php$domain=huya.com
-XYLive.js
-hyExt-web.js
+XYLive.js$domain=huya.com
+hyExt-web.js$domain=huya.com
 p2plib.js$domain=huya.com
 *.zip$domain=huya.com
 
