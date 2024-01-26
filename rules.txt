@@ -26,23 +26,29 @@ live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||live-trace.bilibili.com^
 ||upos-sz-mirror08c.bilivideo.com^
 ||upos-sz-mirror08h.bilivideo.com^
-||s1.hdslb.com/bfs/seed/jinkela/short/b-mirror
-@@||s1.hdslb.com/bfs/seed/jinkela/short/b-mirror/biliMirror.umd.mini.js$domain=live.bilibili.com
 ||*.bilivideo.com*bluray.flv?$domain=live.bilibili.com
 ||*.bilivideo.com*hevc.flv?$domain=live.bilibili.com
 
+! C
+! chaziyu
+chaziyu.com##.MODBanana
 
 ! D
 ! Douyu
 douyu.com##.AdCover
 douyu.com##.Baby
 douyu.com##.IconCardAdCard, .IconCardAdCardBig
+douyu.com##.code_box-5cdf5a
+douyu.com##.PhoneWatch, .PhoneWatch-fl
+douyu.com##.ClientJump
 ||edgesrv.com^
 ||apm.douyucdn.cn^
 ||apmconfig.douyucdn.cn^
 ||dotab.douyucdn.cn^
 ||uact.douyucdn.cn^
-||*:18080/live
+||streamdot.douyucdn.cn^$domain=douyu.com
+||abvolcapi.douyucdn.cn^$domain=douyu.com
+||p2perrorlog.douyucdn.cn^$domain=douyu.com
 ||douyucdn.cn/japi/adx
 ||dyp2p-*.douyucdn2.cn^$domain=douyu.com
 
@@ -70,6 +76,11 @@ ipchaxun.com##.MODBanana
 ! PPIO
 ||ppio.cloud^
 
+! S
+! szbdyd
+||szbdyd.com^
+
+
 ! T
 ! Tencent-HTTPDNS
 ||182.254.116.116
@@ -81,3 +92,5 @@ techpowerup.com##div.v-port:first-child > div:first-child
 ! X
 ! XYCloud
 ||xycdn.com^
+||xylive.tv^
+||xycdn.net^
