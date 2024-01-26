@@ -1,6 +1,6 @@
 ! Title: ADB-Rules
-! Version: 1021.2023
-! Expires: 7 days
+! Version: 24_01_26
+! Expires: 1 days
 ! Description: Block Anything
 ! Homepage: https://github.com/xxxxuanran/ADB-Rules
 
@@ -75,7 +75,7 @@ douyu.com##.ClientJump
 ||a.msstatic.com/huya/main3/assets/modules/liveRoomDurationReport/
 ||a.msstatic.com/huya/main3/assets/modules/liveRoomPvReport/
 ||a.msstatic.com/huya/main3/assets/modules/roomReport/
-||a.msstatic.com/huya/main3/assets/modules/ya-report/
+@@||a.msstatic.com/huya/main3/assets/modules/ya-report/
 ||a.msstatic.com/huya/hd/cdn_libs/performance_report-min.js
 cache*.php$domain=huya.com
 XYLive.js$domain=huya.com
