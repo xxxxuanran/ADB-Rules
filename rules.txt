@@ -90,12 +90,12 @@ ipchaxun.com##.MODBanana
 
 ! L
 ! LDPlayer
-||ad.ldplayer.net
-||advertise.ldplayer.net
-||storetw.ldmnq.com
-||encdn.ldmnq.com
-||apien.ldmnq.com
-||apitw.ldmnq.com
+||ad.ldplayer.net^
+||advertise.ldplayer.net^
+||storetw.ldmnq.com^
+||encdn.ldmnq.com^
+||apien.ldmnq.com^
+||apitw.ldmnq.com^
 
 ! P
 ! PPIO
@@ -108,8 +108,8 @@ ipchaxun.com##.MODBanana
 
 ! T
 ! Tencent-HTTPDNS
-||182.254.116.116
-||182.254.118.118
+||182.254.116.116^
+||182.254.118.118^
 
 ! TechPowerup
 techpowerup.com##div.v-port:first-child > div:first-child
