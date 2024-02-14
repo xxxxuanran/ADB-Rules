@@ -97,6 +97,13 @@ ipchaxun.com##.MODBanana
 ||apien.ldmnq.com^
 ||apitw.ldmnq.com^
 
+! M
+! Microvirt
+||www.microvirt.com^
+||hstat.microvirt.com^
+||xyaz.cn^
+
+
 ! P
 ! PPIO
 ||ppio.cloud^
