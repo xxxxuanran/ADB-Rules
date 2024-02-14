@@ -1,5 +1,5 @@
 ! Title: ADB-Rules
-! Version: 24_01_26
+! Version: 24_02_14
 ! Expires: 1 days
 ! Description: Block Anything
 ! Homepage: https://github.com/xxxxuanran/ADB-Rules
@@ -87,6 +87,15 @@ p2plib.js$domain=huya.com
 ! ipchaxun
 ipchaxun.com##.mod-news
 ipchaxun.com##.MODBanana
+
+! L
+! LDPlayer
+||ad.ldplayer.net
+||advertise.ldplayer.net
+||storetw.ldmnq.com
+||encdn.ldmnq.com
+||apien.ldmnq.com
+||apitw.ldmnq.com
 
 ! P
 ! PPIO
