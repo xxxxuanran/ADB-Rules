@@ -24,7 +24,6 @@ live.bilibili.com##.function_card_container
 ||mcdn.bilivideo.cn^
 ||data.bilivideo.com^
 ||data.bilibili.com^
-||live-trace.bilibili.com^
 ||upos-sz-mirror08*.bilivideo.com^
 ||upos-sz-estgoss*.bilivideo.com^
 
