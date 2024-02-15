@@ -1,5 +1,5 @@
 ! Title: ADB-Rules
-! Version: 24_02_14
+! Version: 24.0215
 ! Expires: 1 days
 ! Description: Block Anything
 ! Homepage: https://github.com/xxxxuanran/ADB-Rules
@@ -11,7 +11,9 @@
 
 ! A
 ! Aliyun-HTTPDNS
-||203.107.1.*
+! 它应该是 203.107.1.1/24
+/203.107.1.[0-9]{3}/$network
+/203.107.1.*$/
 
 ! B
 ! Bilibili
@@ -19,15 +21,15 @@ bilibili.com##.adblock-tips
 t.bilibili.com##.bili-dyn-ads__item
 t.bilibili.com##.bili-dyn-ads
 live.bilibili.com##.function_card_container
-live.bilibili.com#%#window.__NEPTUNE_IS_MY_WAIFU__ = undefined;
 ||mcdn.bilivideo.cn^
 ||data.bilivideo.com^
 ||data.bilibili.com^
 ||live-trace.bilibili.com^
-||upos-sz-mirror08c.bilivideo.com^
-||upos-sz-mirror08h.bilivideo.com^
-||*.bilivideo.com*bluray.flv?$domain=live.bilibili.com
-||*.bilivideo.com*hevc.flv?$domain=live.bilibili.com
+||upos-sz-mirror08*.bilivideo.com^
+||upos-sz-estgoss*.bilivideo.com^
+
+! BlackMOD
+||ads24h.net^
 
 ! C
 ! chaziyu
@@ -35,6 +37,7 @@ chaziyu.com##.MODBanana
 
 ! D
 ! Douyu
+/.+:18080/$network
 douyu.com##.AdCover
 douyu.com##.Baby
 douyu.com##.IconCardAdCard, .IconCardAdCardBig
@@ -50,11 +53,14 @@ douyu.com##.ClientJump
 ||abvolcapi.douyucdn.cn^$domain=douyu.com
 ||p2perrorlog.douyucdn.cn^$domain=douyu.com
 ||douyucdn.cn/japi/adx
-||dyp2p-*.douyucdn2.cn^$domain=douyu.com
+||dyp2p*.douyucdn2.cn^$domain=douyu.com
 
 
 ! H
 ! Huya
+huya.com##.diy-activity-icon
+huya.com##.more-activity-icon
+huya.com##.end-ab-banner
 ||csp.huya.com^
 ||ext.huya.com^
 ||p2p.huya.com^
