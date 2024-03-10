@@ -1,5 +1,5 @@
 ! Title: ADB-Rules
-! Version: 24.0215
+! Version: 24.0310
 ! Expires: 1 days
 ! Description: Block Anything
 ! Homepage: https://github.com/xxxxuanran/ADB-Rules
