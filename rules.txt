@@ -21,11 +21,16 @@ bilibili.com##.adblock-tips
 t.bilibili.com##.bili-dyn-ads__item
 t.bilibili.com##.bili-dyn-ads
 live.bilibili.com##.function_card_container
+live.bilibili.com##.web-player-icon-roomStatus
+live.bilibili.com##.bili-dm, .bili-center, .bili-show
 ||mcdn.bilivideo.cn^
 ||data.bilivideo.com^
 ||data.bilibili.com^
-||upos-sz-mirror08*.bilivideo.com^
-||upos-sz-estgoss*.bilivideo.com^
+@@||upos-sz-mirror08*.bilivideo.com^
+@@||upos-sz-estgoss*.bilivideo.com^
+@@||*.bilivideo.com*.flv^
+@@||d1--cn-gotcha204*
+
 
 ! BlackMOD
 ||ads24h.net^
