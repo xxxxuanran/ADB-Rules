@@ -22,7 +22,7 @@ t.bilibili.com##.bili-dyn-ads__item
 t.bilibili.com##.bili-dyn-ads
 live.bilibili.com##.function_card_container
 live.bilibili.com##.web-player-icon-roomStatus
-live.bilibili.com##.bili-dm, .bili-center, .bili-show
+live.bilibili.com##.bili-dm.bili-center.bili-show
 ||mcdn.bilivideo.cn^
 ||data.bilivideo.com^
 ||data.bilibili.com^
