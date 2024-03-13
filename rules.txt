@@ -1,5 +1,5 @@
 ! Title: ADB-Rules
-! Version: 24.0310
+! Version: 24.0313
 ! Expires: 1 days
 ! Description: Block Anything
 ! Homepage: https://github.com/xxxxuanran/ADB-Rules
@@ -31,9 +31,12 @@ live.bilibili.com##.bili-dm.bili-center.bili-show
 @@||*.bilivideo.com*.flv^
 @@||d1--cn-gotcha204*
 
-
 ! BlackMOD
 ||ads24h.net^
+
+! Bluestacks
+||delegate.bluestacks.com^
+
 
 ! C
 ! chaziyu
@@ -135,6 +138,10 @@ ipchaxun.com##.MODBanana
 ||ppio.cloud^
 
 ! S
+! Stellarplayer
+||player-update.coldlake*.
+||api.stellarplayer.com^
+
 ! szbdyd
 ||szbdyd.com^
 
