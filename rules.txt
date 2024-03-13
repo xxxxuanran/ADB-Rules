@@ -113,6 +113,22 @@ ipchaxun.com##.MODBanana
 ||hstat.microvirt.com^
 ||xyaz.cn^
 
+! MuMu
+# 应用商店（桌面推广
+||store-api.mumu.163.com^
+# 工具箱（侧栏）
+||mumu-tool.webapp.163.com^
+# 检测更新/顶栏提示/应用默认键位/UU加速白名单/侧栏游戏中心/启动页图片
+||mumu.nie.netease.com^
+# 默认键位下载地址
+@@||g.fp.ps.netease.com^
+# 键位共享
+@@||mumu-cloud-pub.fp.ps.netease.com^
+# 小工具
+||mumu-apk.fp.ps.netease.com^
+# 消息中心/侧栏内嵌页
+||nemu.fp.ps.netease.com^
+
 
 ! P
 ! PPIO
