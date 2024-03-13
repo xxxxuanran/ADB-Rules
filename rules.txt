@@ -26,9 +26,10 @@ live.bilibili.com##.bili-dm.bili-center.bili-show
 ||mcdn.bilivideo.cn^
 ||data.bilivideo.com^
 ||data.bilibili.com^
+||httpdns.bilivideo.com^
+||grpc.biliapi.net^
 @@||upos-sz-mirror08*.bilivideo.com^
 @@||upos-sz-estgoss*.bilivideo.com^
-@@||*.bilivideo.com*.flv^
 @@||d1--cn-gotcha204*
 
 ! BlackMOD
@@ -56,11 +57,13 @@ douyu.com##.ClientJump
 ||apmconfig.douyucdn.cn^
 ||dotab.douyucdn.cn^
 ||uact.douyucdn.cn^
-||streamdot.douyucdn.cn^$domain=douyu.com
-||abvolcapi.douyucdn.cn^$domain=douyu.com
-||p2perrorlog.douyucdn.cn^$domain=douyu.com
+||streamdot.douyucdn.cn^
+||abvolcapi.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
+||p2plog.douyucdn.cn^
 ||douyucdn.cn/japi/adx
 ||dyp2p*.douyucdn2.cn^$domain=douyu.com
+||shark2.douyucdn.cn/front-publish/stream-sdk-lib-master/dyp2pxp2p_*.js
 
 
 ! H
